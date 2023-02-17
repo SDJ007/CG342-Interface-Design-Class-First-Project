@@ -1,4 +1,10 @@
 h1{
     font-size: 120px; text-align: center; color: royalblue; font-family: 'Righteous', cursive;
-    
+}
+h2{
+    text-align: center; color: cadetblue; font-family: 'Zilla Slab', serif;
+}
+p{
+    text-align: center; color: darkgrey; font-family: 'Zilla Slab', serif; margin: 15px 100px;
+
 }
