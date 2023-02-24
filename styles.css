@@ -20,4 +20,7 @@ background-color: aquamarine;
 text-decoration: none;
 color: lightblue;
 border-radius: 90px;
+border-width: 10px;
+width:fit-content;
+text-align: left;
 }
