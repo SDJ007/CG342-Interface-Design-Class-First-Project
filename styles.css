@@ -1,3 +1,7 @@
+
+body{
+    background-color:darkcyan;
+}
 h1{
     font-size: 120px; text-align: center; color: royalblue; font-family: 'Righteous', cursive;
 }
@@ -6,8 +10,4 @@ h2{
 }
 p{
     text-align: center; color:cornflowerblue; font-family: 'Zilla Slab', serif; margin: 15px 200px; line-height: 20px;
-}
-
-body{
-    color:darkcyan;
 }
