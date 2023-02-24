@@ -25,6 +25,8 @@ border-width: 10px;
 width: fit-content;
 text-align: center;
 margin: auto;
+padding: 10px 20px;
+top: 15px;
 }
 
 .button-alert{
@@ -38,6 +40,8 @@ margin: auto;
     border-width: 10px;
     width: fit-content;
     text-align: center;
-    right: 50%;
-    transform: translateX(50%);
+    margin:auto;
+    padding: 10px 20px;
+
+
 }
