@@ -23,7 +23,7 @@ color: lightblue;
 border-radius: 90px;
 border-width: 10px;
 width: fit-content;
-text-align: left;
+text-align: center;
 }
 
 .button-alert{
@@ -36,5 +36,5 @@ text-align: left;
     border-radius: 90px;
     border-width: 10px;
     width: fit-content;
-    text-align: left;
+    text-align: center;
 }
