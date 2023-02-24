@@ -1,7 +1,8 @@
 
 body{
-    background-color:darkcyan;
+    background-color:lavender;
 }
+/*comment*/
 h1{
     font-size: 120px; text-align: center; color: royalblue; font-family: 'Righteous', cursive;
 }
@@ -10,4 +11,12 @@ h2{
 }
 p{
     text-align: center; color:cornflowerblue; font-family: 'Zilla Slab', serif; margin: 15px 200px; line-height: 20px;
+}
+
+.buttons-links{
+border-style: solid;
+border-color: darkorange;
+background-color: aquamarine;
+text-decoration: none;
+color: lightblue;
 }
