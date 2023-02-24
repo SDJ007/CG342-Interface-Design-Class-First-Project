@@ -15,7 +15,7 @@ p{
 
 .top{
     height:fit-content;
-    padding: 150px;
+    padding: 100px;
     background-color: darksalmon;
 
 }
@@ -42,7 +42,7 @@ width: fit-content;
 text-align: center;
 margin: auto;
 padding: 10px 20px;
-top: 40pxpx;
+margin-top: 40pxpx;
 }
 
 .button-alert{
@@ -61,7 +61,7 @@ top: 40pxpx;
 }
 
 footer{
-    height:300px;
-    background-color: darkkhaki;
+    height:200px;
+    background-color: darkorchid;
     padding: 50px 0px;
 }
