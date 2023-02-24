@@ -25,3 +25,16 @@ border-width: 10px;
 width: fit-content;
 text-align: left;
 }
+
+.button-alert{
+    display: block;
+    border-style: outset;
+    border-color:seagreen;
+    background-color:mintcream;
+    text-decoration: none;
+    color: darkgoldenrod;
+    border-radius: 90px;
+    border-width: 10px;
+    width: fit-content;
+    text-align: left;
+}
