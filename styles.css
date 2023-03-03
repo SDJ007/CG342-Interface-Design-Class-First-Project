@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     background-color:lavender; margin: 0px; 
@@ -7,7 +10,7 @@ h1{
     font-size: 120px; text-align: center; color: cornflowerblue; font-family: 'Righteous', cursive;
 }
 h2{
-    text-align: center; color: cadetblue; font-family: 'Zilla Slab', serif; margin: 15px;
+    text-align: center; color: cadetblue; font-family: 'Zilla Slab', serif; margin: 15px; margin-top: 200px
 }
 p{
     text-align: center; color:cornflowerblue; font-family: 'Zilla Slab', serif; margin: 0px 200px; line-height: 20px;
