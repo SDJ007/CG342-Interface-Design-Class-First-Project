@@ -17,9 +17,13 @@ nav{background-color: aquamarine; justify-content: center; padding: 15px 50px; p
 
 }
 
-li{ text-decoration: none; margin: 10px 30px; font-family: 'Zilla Slab', serif; color:crimson; font-size: 30px;
+.navText{ text-decoration: none; margin: 10px 30px; font-family: 'Zilla Slab', serif; color:crimson; font-size: 30px;
 
 }
+
+ul{margin:auto; justify-content: center;}
+
+li{display: inline;}
 
 .top{
     height:fit-content;
