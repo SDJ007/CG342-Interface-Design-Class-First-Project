@@ -22,7 +22,7 @@ nav{background-color: aquamarine; padding: 15px 50px; padding-top: 30px;
 }
 
 .coolList{
-    text-align: center; 
+    text-align: center; margin: 0px; padding: 0px;
 }
 
 li{display: inline;}
