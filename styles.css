@@ -46,7 +46,7 @@ li{display: inline;}
 
 .buttons-links{
     display: block;
-border-style: ridge;
+border-style: dashed;
 border-color: darksalmon;
 background-color: aquamarine;
 text-decoration: none;
