@@ -31,6 +31,7 @@ li{display: inline;}
     height:fit-content;
     padding: 100px;
     background-color: darksalmon;
+    margin-bottom: 20px;
 
 }
 
@@ -45,7 +46,7 @@ li{display: inline;}
 
 .buttons-links{
     display: block;
-border-style: solid;
+border-style: groove;
 border-color: darksalmon;
 background-color: aquamarine;
 text-decoration: none;
@@ -56,8 +57,8 @@ width: fit-content;
 text-align: center;
 margin: auto;
 padding: 20px 20px;
-margin-top: 25px;
-margin-bottom: 10px;
+margin-top: 15px;
+margin-bottom: 20px;
 }
 
 .button-alert{
@@ -74,7 +75,7 @@ margin-bottom: 10px;
     margin:auto;
     padding: 20px 20px;
     margin-top: 25px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 footer{
