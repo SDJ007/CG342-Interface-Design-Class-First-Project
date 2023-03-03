@@ -13,14 +13,17 @@ p{
     text-align: center; color:cornflowerblue; font-family: 'Zilla Slab', serif; margin: 15px 200px; line-height: 20px;
 }
 
-nav{background-color: aquamarine; justify-content: center; padding: 15px 50px; padding-top: 30px; margin:auto;
+nav{background-color: aquamarine; padding: 15px 50px; padding-top: 30px;
 
 }
 
-.navText{ text-decoration: none; margin: 10px 30px; font-family: 'Zilla Slab', serif; color:crimson; font-size: 30px; text-align: center;
+.navText{ text-decoration: none; margin: 10px 30px; font-family: 'Zilla Slab', serif; color:crimson; font-size: 30px; 
 
 }
 
+.coolList{
+    text-align: center; 
+}
 
 li{display: inline;}
 
