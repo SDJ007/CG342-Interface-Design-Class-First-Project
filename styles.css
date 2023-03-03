@@ -31,7 +31,7 @@ li{display: inline;}
     height:fit-content;
     padding: 100px;
     background-color: darksalmon;
-    margin-bottom: 20px;
+    margin-bottom: 45px;
 
 }
 
@@ -46,7 +46,7 @@ li{display: inline;}
 
 .buttons-links{
     display: block;
-border-style: groove;
+border-style: ridge;
 border-color: darksalmon;
 background-color: aquamarine;
 text-decoration: none;
