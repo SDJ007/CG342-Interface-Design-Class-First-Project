@@ -95,19 +95,17 @@ footer{
 
 @media only screen and (max-width: 600px){
 
-    .main{
-        width: 90%;
-    }
+
 
     body{
         background-color:midnightblue;
     }
 
-    p{color:goldenrod}
+    p{color:goldenrod; margin: 0px 10%}
     
-    h1{color:cornsilk; font-size: large;}
+    h1{color:cornsilk; font-size: 50px;}
 
-    h2{color:beige; font-size: medium;}
+    h2{color:beige; font-size: 30px;}
 
     
 }
