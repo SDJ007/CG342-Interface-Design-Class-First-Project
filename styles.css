@@ -111,5 +111,7 @@ footer{
 
     .main{width: 100%;}
 
+    nav{padding: 15px 0px;}
 
+    .navText{font-size: 12px}
 }
